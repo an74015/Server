@@ -1,0 +1,58 @@
+E:\UNI LEARNING\TAI LIEU KI 2 - 19.20\LAP TRINH MANG\CODE\Socket_Programing\Server_MultiConnection\bin\Debug\netcoreapp3.1\Server_MultiConnection.exe
+E:\UNI LEARNING\TAI LIEU KI 2 - 19.20\LAP TRINH MANG\CODE\Socket_Programing\Server_MultiConnection\bin\Debug\netcoreapp3.1\Server_MultiConnection.deps.json
+E:\UNI LEARNING\TAI LIEU KI 2 - 19.20\LAP TRINH MANG\CODE\Socket_Programing\Server_MultiConnection\bin\Debug\netcoreapp3.1\Server_MultiConnection.runtimeconfig.json
+E:\UNI LEARNING\TAI LIEU KI 2 - 19.20\LAP TRINH MANG\CODE\Socket_Programing\Server_MultiConnection\bin\Debug\netcoreapp3.1\Server_MultiConnection.runtimeconfig.dev.json
+E:\UNI LEARNING\TAI LIEU KI 2 - 19.20\LAP TRINH MANG\CODE\Socket_Programing\Server_MultiConnection\bin\Debug\netcoreapp3.1\Server_MultiConnection.dll
+E:\UNI LEARNING\TAI LIEU KI 2 - 19.20\LAP TRINH MANG\CODE\Socket_Programing\Server_MultiConnection\bin\Debug\netcoreapp3.1\Server_MultiConnection.pdb
+E:\UNI LEARNING\TAI LIEU KI 2 - 19.20\LAP TRINH MANG\CODE\Socket_Programing\Server_MultiConnection\obj\Debug\netcoreapp3.1\Server_MultiConnection.AssemblyInfoInputs.cache
+E:\UNI LEARNING\TAI LIEU KI 2 - 19.20\LAP TRINH MANG\CODE\Socket_Programing\Server_MultiConnection\obj\Debug\netcoreapp3.1\Server_MultiConnection.AssemblyInfo.cs
+E:\UNI LEARNING\TAI LIEU KI 2 - 19.20\LAP TRINH MANG\CODE\Socket_Programing\Server_MultiConnection\obj\Debug\netcoreapp3.1\Server_MultiConnection.dll
+E:\UNI LEARNING\TAI LIEU KI 2 - 19.20\LAP TRINH MANG\CODE\Socket_Programing\Server_MultiConnection\obj\Debug\netcoreapp3.1\Server_MultiConnection.pdb
+E:\UNI LEARNING\TAI LIEU KI 2 - 19.20\LAP TRINH MANG\CODE\Socket_Programing\Server_MultiConnection\obj\Debug\netcoreapp3.1\Server_MultiConnection.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\NETWORK_PROGRAMING_SERVER\bin\Debug\netcoreapp3.1\Server_MultiConnection.exe
+C:\Users\Admin\Desktop\NETWORK_PROGRAMING_SERVER\bin\Debug\netcoreapp3.1\Server_MultiConnection.deps.json
+C:\Users\Admin\Desktop\NETWORK_PROGRAMING_SERVER\bin\Debug\netcoreapp3.1\Server_MultiConnection.runtimeconfig.json
+C:\Users\Admin\Desktop\NETWORK_PROGRAMING_SERVER\bin\Debug\netcoreapp3.1\Server_MultiConnection.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\NETWORK_PROGRAMING_SERVER\bin\Debug\netcoreapp3.1\Server_MultiConnection.dll
+C:\Users\Admin\Desktop\NETWORK_PROGRAMING_SERVER\bin\Debug\netcoreapp3.1\Server_MultiConnection.pdb
+C:\Users\Admin\Desktop\NETWORK_PROGRAMING_SERVER\obj\Debug\netcoreapp3.1\Server_MultiConnection.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\NETWORK_PROGRAMING_SERVER\obj\Debug\netcoreapp3.1\Server_MultiConnection.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\NETWORK_PROGRAMING_SERVER\obj\Debug\netcoreapp3.1\Server_MultiConnection.AssemblyInfo.cs
+C:\Users\Admin\Desktop\NETWORK_PROGRAMING_SERVER\obj\Debug\netcoreapp3.1\Server_MultiConnection.dll
+C:\Users\Admin\Desktop\NETWORK_PROGRAMING_SERVER\obj\Debug\netcoreapp3.1\Server_MultiConnection.pdb
+C:\Users\Admin\Desktop\NETWORK_PROGRAMING_SERVER\obj\Debug\netcoreapp3.1\Server_MultiConnection.genruntimeconfig.cache
+C:\Users\Admin\Desktop\SERVER_CLIENT\NETWORK_PROGRAMING_SERVER\bin\Debug\netcoreapp3.1\Server_MultiConnection.exe
+C:\Users\Admin\Desktop\SERVER_CLIENT\NETWORK_PROGRAMING_SERVER\bin\Debug\netcoreapp3.1\Server_MultiConnection.deps.json
+C:\Users\Admin\Desktop\SERVER_CLIENT\NETWORK_PROGRAMING_SERVER\bin\Debug\netcoreapp3.1\Server_MultiConnection.runtimeconfig.json
+C:\Users\Admin\Desktop\SERVER_CLIENT\NETWORK_PROGRAMING_SERVER\bin\Debug\netcoreapp3.1\Server_MultiConnection.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\SERVER_CLIENT\NETWORK_PROGRAMING_SERVER\bin\Debug\netcoreapp3.1\Server_MultiConnection.dll
+C:\Users\Admin\Desktop\SERVER_CLIENT\NETWORK_PROGRAMING_SERVER\bin\Debug\netcoreapp3.1\Server_MultiConnection.pdb
+C:\Users\Admin\Desktop\SERVER_CLIENT\NETWORK_PROGRAMING_SERVER\obj\Debug\netcoreapp3.1\Server_MultiConnection.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\SERVER_CLIENT\NETWORK_PROGRAMING_SERVER\obj\Debug\netcoreapp3.1\Server_MultiConnection.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\SERVER_CLIENT\NETWORK_PROGRAMING_SERVER\obj\Debug\netcoreapp3.1\Server_MultiConnection.AssemblyInfo.cs
+C:\Users\Admin\Desktop\SERVER_CLIENT\NETWORK_PROGRAMING_SERVER\obj\Debug\netcoreapp3.1\Server_MultiConnection.dll
+C:\Users\Admin\Desktop\SERVER_CLIENT\NETWORK_PROGRAMING_SERVER\obj\Debug\netcoreapp3.1\Server_MultiConnection.pdb
+C:\Users\Admin\Desktop\SERVER_CLIENT\NETWORK_PROGRAMING_SERVER\obj\Debug\netcoreapp3.1\Server_MultiConnection.genruntimeconfig.cache
+G:\server_laptrinhmang\NETWORK_PROGRAMING_SERVER\bin\Debug\netcoreapp3.1\Server_MultiConnection.exe
+G:\server_laptrinhmang\NETWORK_PROGRAMING_SERVER\bin\Debug\netcoreapp3.1\Server_MultiConnection.deps.json
+G:\server_laptrinhmang\NETWORK_PROGRAMING_SERVER\bin\Debug\netcoreapp3.1\Server_MultiConnection.runtimeconfig.json
+G:\server_laptrinhmang\NETWORK_PROGRAMING_SERVER\bin\Debug\netcoreapp3.1\Server_MultiConnection.runtimeconfig.dev.json
+G:\server_laptrinhmang\NETWORK_PROGRAMING_SERVER\bin\Debug\netcoreapp3.1\Server_MultiConnection.dll
+G:\server_laptrinhmang\NETWORK_PROGRAMING_SERVER\bin\Debug\netcoreapp3.1\Server_MultiConnection.pdb
+G:\server_laptrinhmang\NETWORK_PROGRAMING_SERVER\obj\Debug\netcoreapp3.1\Server_MultiConnection.AssemblyInfoInputs.cache
+G:\server_laptrinhmang\NETWORK_PROGRAMING_SERVER\obj\Debug\netcoreapp3.1\Server_MultiConnection.AssemblyInfo.cs
+G:\server_laptrinhmang\NETWORK_PROGRAMING_SERVER\obj\Debug\netcoreapp3.1\Server_MultiConnection.dll
+G:\server_laptrinhmang\NETWORK_PROGRAMING_SERVER\obj\Debug\netcoreapp3.1\Server_MultiConnection.pdb
+G:\server_laptrinhmang\NETWORK_PROGRAMING_SERVER\obj\Debug\netcoreapp3.1\Server_MultiConnection.genruntimeconfig.cache
+G:\LEARN\LAP_TRINH_MANG_SER_CLIENT\server_laptrinhmang\NETWORK_PROGRAMING_SERVER\bin\Debug\netcoreapp3.1\Server_MultiConnection.exe
+G:\LEARN\LAP_TRINH_MANG_SER_CLIENT\server_laptrinhmang\NETWORK_PROGRAMING_SERVER\bin\Debug\netcoreapp3.1\Server_MultiConnection.deps.json
+G:\LEARN\LAP_TRINH_MANG_SER_CLIENT\server_laptrinhmang\NETWORK_PROGRAMING_SERVER\bin\Debug\netcoreapp3.1\Server_MultiConnection.runtimeconfig.json
+G:\LEARN\LAP_TRINH_MANG_SER_CLIENT\server_laptrinhmang\NETWORK_PROGRAMING_SERVER\bin\Debug\netcoreapp3.1\Server_MultiConnection.runtimeconfig.dev.json
+G:\LEARN\LAP_TRINH_MANG_SER_CLIENT\server_laptrinhmang\NETWORK_PROGRAMING_SERVER\bin\Debug\netcoreapp3.1\Server_MultiConnection.dll
+G:\LEARN\LAP_TRINH_MANG_SER_CLIENT\server_laptrinhmang\NETWORK_PROGRAMING_SERVER\bin\Debug\netcoreapp3.1\Server_MultiConnection.pdb
+G:\LEARN\LAP_TRINH_MANG_SER_CLIENT\server_laptrinhmang\NETWORK_PROGRAMING_SERVER\obj\Debug\netcoreapp3.1\Server_MultiConnection.csprojAssemblyReference.cache
+G:\LEARN\LAP_TRINH_MANG_SER_CLIENT\server_laptrinhmang\NETWORK_PROGRAMING_SERVER\obj\Debug\netcoreapp3.1\Server_MultiConnection.AssemblyInfoInputs.cache
+G:\LEARN\LAP_TRINH_MANG_SER_CLIENT\server_laptrinhmang\NETWORK_PROGRAMING_SERVER\obj\Debug\netcoreapp3.1\Server_MultiConnection.AssemblyInfo.cs
+G:\LEARN\LAP_TRINH_MANG_SER_CLIENT\server_laptrinhmang\NETWORK_PROGRAMING_SERVER\obj\Debug\netcoreapp3.1\Server_MultiConnection.dll
+G:\LEARN\LAP_TRINH_MANG_SER_CLIENT\server_laptrinhmang\NETWORK_PROGRAMING_SERVER\obj\Debug\netcoreapp3.1\Server_MultiConnection.pdb
+G:\LEARN\LAP_TRINH_MANG_SER_CLIENT\server_laptrinhmang\NETWORK_PROGRAMING_SERVER\obj\Debug\netcoreapp3.1\Server_MultiConnection.genruntimeconfig.cache
